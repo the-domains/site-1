@@ -1,0 +1,14 @@
+layout_spectrum: 0.4351504845544696
+typography_spectrum: 0.9732388560660183
+color:
+  brandStrength: 0.566302688093856
+  lightness: 0.6466259232256562
+  saturation: 0.7451204773969948
+  rhythmicContrast: 0.6407916210591793
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Site 1
