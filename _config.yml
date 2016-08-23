@@ -6,9 +6,9 @@ color:
   saturation: 0.7451204773969948
   rhythmicContrast: 0.6407916210591793
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Site 1
